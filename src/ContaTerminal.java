@@ -24,6 +24,5 @@ public class ContaTerminal {
         + agencia + ", conta " + numero + " e seu saldo " + saldo + " já está disponível para saque.");
 
         scanner.close();
-
     }
 }
